@@ -31,7 +31,7 @@ Dedicated to continuous learning and always eager to embrace new technologies to
 ---
 
 ## 📌 Featured Projects
-- [🚀 Road-Accident-Hotspots](https://github.com/Kavith2/Road-Accident-Hotspots) – A full-stack app with Angular + .NET + MySQL + AWS S3.  
+- [🚀 Road-Accident-Hotspots](https://github.com/Kavith2/Road-Accident-Hotspots) – A full-stack app with React + Nodejs + Firebase + GIS.  
 - [📊 Car-info](https://github.com/Kavith2/Car-info) – Generates and stores reports in AWS S3.  
 - [🌐 E-commerce-Website](https://github.com/Kavith2/E-commerce-Website) – Personal developer portfolio with responsive design.  
 
