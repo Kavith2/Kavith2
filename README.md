@@ -38,6 +38,6 @@ Dedicated to continuous learning and always eager to embrace new technologies to
 ---
 
 ## 🌍 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/kavith-gunasekara-677528243/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavith-gunasekara-677528243/)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kavithg2000@gmail.com)  
 
