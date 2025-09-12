@@ -31,9 +31,9 @@ Dedicated to continuous learning and always eager to embrace new technologies to
 ---
 
 ## 📌 Featured Projects
-- [🚀 Expense Tracker](https://github.com/Kavith2/expense-tracker) – A full-stack app with Angular + .NET + MySQL + AWS S3.  
-- [📊 Risk Graph Generator](https://github.com/Kavith2/risk-graph) – Generates and stores reports in AWS S3.  
-- [🌐 Portfolio Website](https://github.com/Kavith2/portfolio) – Personal developer portfolio with responsive design.  
+- [🚀 Expense Tracker](https://github.com/Kavith2/Road-Accident-Hotspots) – A full-stack app with Angular + .NET + MySQL + AWS S3.  
+- [📊 Risk Graph Generator](https://github.com/Kavith2/Car-info) – Generates and stores reports in AWS S3.  
+- [🌐 Portfolio Website](https://github.com/Kavith2/E-commerce-Website) – Personal developer portfolio with responsive design.  
 
 ---
 
