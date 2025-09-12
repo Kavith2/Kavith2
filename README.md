@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kavith!
 
-### 💼 Software Engineer | Full-Stack Developer | Cloud Enthusiast
+### 💼 Software Engineer | Full-Stack Developer 
 
 Software Engineer with 2 years of experience in developing enterprise-level web applications.  
 Proficient in both front-end and back-end development, with a strong emphasis on cloud integration and delivering high-quality, maintainable code.  
@@ -11,8 +11,10 @@ Dedicated to continuous learning and always eager to embrace new technologies to
 
 ## 🛠️ Tech Stack
 - **Frontend:** Angular, HTML, CSS, JavaScript, TypeScript  
-- **Backend:** .NET, C#, Node.js  
-- **Database:** MySQL, SQL Server, MongoDB  
+- **Backend:** .NET, C#, Node.js
+- **Architecture & Design:** RESTful APIs, OOP, MVVM, Agile Development   
+- **Database:** MySQL, SQL Server, MongoDB
+- **DevOps & CI/CD:** Jenkins, Git, Bitbucket 
 - **Cloud & Tools:** AWS (S3), GitHub Actions  
 
 ---
@@ -36,6 +38,6 @@ Dedicated to continuous learning and always eager to embrace new technologies to
 ---
 
 ## 🌍 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/kavith-gunasekara-677528243/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/kavith-gunasekara-677528243/)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kavithg2000@gmail.com)  
 
