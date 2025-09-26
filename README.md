@@ -2,10 +2,7 @@
 
 ### 💼 Software Engineer | Full-Stack Developer 
 
-Software Engineer with 2 years of experience in developing enterprise-level web applications.  
-Proficient in both front-end and back-end development, with a strong emphasis on cloud integration and delivering high-quality, maintainable code.  
-Focused on producing reliable and scalable solutions that enhance business operations.  
-Dedicated to continuous learning and always eager to embrace new technologies to improve my skills and contribute effectively to projects.  
+Diligent Software Engineer with 2 years of experience in building enterprise-level web applications, skilled in both front-end and back-end development. Proficient in Java, C#, .NET, Angular, and SQL with a strong commitment to writing clean, maintainable, and testable code aligned with industry best practices. Experienced in designing and implementing scalable, cloud-integrated solutions with AWS and delivering high-quality software across domains including Finance, and Enterprise Resource Management. Dedicated to continuous learning, agile collaboration, and leveraging modern technologies to create innovative solutions that drive business value. 
 
 ---
 
