@@ -19,8 +19,6 @@ Diligent Software Engineer with 2 years of experience in building enterprise-lev
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kavith2&show_icons=true&theme=tokyonight)
 
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=Kavith2&theme=tokyonight)
 
 ## 💻 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavith2&layout=compact&theme=tokyonight)
