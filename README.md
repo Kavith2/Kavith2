@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kavith!
+# 👋 Hi, I'm Kavith Gunasekara!
 
 ### 💼 Software Engineer | Full-Stack Developer 
 
